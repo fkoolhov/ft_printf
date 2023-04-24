@@ -3,7 +3,7 @@
   <img src="FT_PRINTF.png" alt="logo" width="1000" height="auto" />
  
  <p>
-    This project is about sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions.
+    Recoding C's printf function
   </p>
   
 </div>
@@ -11,7 +11,7 @@
 
 # About the project
 
-A project made in accordance with the ft_printf project which is part of the Codam Core Curriculum. This project is pretty straightforward, you have to recode printf. You learn to implement variadic functions. 
+A project made in accordance with the ft_printf project which is part of the Codam Core Curriculum. This project is pretty straightforward, you have to recode printf. You learn to implement variadic functions. In C language, printf function is used to print output on the screen.  This function is a part of the C standard library and it can allow formatting the output in numerous ways.
 You have to implement the following conversions:
 - %c Prints a single character.
 - %s Prints a string (as defined by the common C convention).
