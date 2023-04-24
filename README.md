@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="img/PUSH_SWAP.png" alt="logo" width="1000" height="auto" />
+  <img src="FT_PRINTF.png" alt="logo" width="1000" height="auto" />
  
  <p>
     This project is about sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions.
