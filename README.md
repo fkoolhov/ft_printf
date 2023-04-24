@@ -49,7 +49,9 @@ gcc main.c libftprintf.a
 
 # Important learnings
 1. I learned how to write variadic functions.
-2. I learned about the specifics of various conversions and was introduced to working with hexadecimals. 
+2. I learned about the specifics of various conversions and was introduced to working with hexadecimals.
+
+I passed this project with 100%.
 
 # Contact
 
